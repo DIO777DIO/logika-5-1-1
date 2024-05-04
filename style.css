@@ -1,0 +1,88 @@
+body {
+    font-family: sans-serif;
+}
+body {
+    background-image:linear-gradient(rgb(87, 87, 87),rgb(165, 154, 154),rgb(87, 87, 87));
+}
+h2 p {
+text-align: center;
+width: 200px;
+height: 30px;
+}
+div { 
+    width: 200px;
+    text-align: center;
+    font-size: 40px;
+}
+div p {
+    font-size: 25px;
+    text-align: center;
+    color: rgb(148, 145, 145);
+}
+.hp {
+    background-color: rgb(31, 148, 31);
+    color: black;
+    font-size: 20px;
+}
+.mana {
+    background-color: rgb(128, 208, 235);
+    color: black;
+    font-size: 20px;
+}
+.imya {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+.opisanie {
+    opacity: 0.3;
+}
+h3 p:hover {
+    opacity: 1;
+    transition:0.3s linear;
+}
+.ocnova {
+ color: rgb(86, 168, 168);
+ font-size: 20px;
+}
+
+.geroi {
+    background-color: darkslategrey;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 200px;
+    height: 84%;
+}
+.knopki {
+   background-color:rgb(27, 26, 26) ;
+}
+.opis {
+    background-color:rgb(27, 26, 26) ;
+}
+img {
+    justify-content: center;
+}
+footer {
+    background-color: black ;
+    text-align: center;
+}
+footer a {
+    text-decoration: none;
+    color: grey;
+}
+.color-black{
+    color: black;
+    font-size: 20px;
+}
+.sila {
+    color: rgb(255, 60, 0);
+}
+.intilect {
+    color: aqua;
+}
+.spritnost {
+    color: forestgreen;
+}
+.universal {
+    
+}
